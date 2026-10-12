@@ -7,3 +7,7 @@ print("Este cambio no forma parte del commit todavia")
 print("luego del reset")
 print("Ultima actualizacion del archivo 1")
 print("Ultimo cambio en esta version ")
+print("funcionalidad nueva 1")
+
+
+
