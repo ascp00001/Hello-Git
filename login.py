@@ -21,9 +21,13 @@ print("CONFLICTO GENERADO DESDE LOGIN")
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 print("Cambio experimental (no debe unirse al codigo principal todavia)")
 
 print("stash 1")
+=======
+print("Cambio experimental (no debe unirse al codigo principal todavia)")
+>>>>>>> Stashed changes
 =======
 print("Cambio experimental (no debe unirse al codigo principal todavia)")
 >>>>>>> Stashed changes
