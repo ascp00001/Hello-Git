@@ -17,4 +17,4 @@ print("CAMBIO DESDE LOGIN")
 
 
 print("Otro cambio desde main")
-print("CONFLICTO MAIN")
+print("CONFLICTO GENERADO DESDE LOGIN")
