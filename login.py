@@ -10,6 +10,7 @@ else:
     print("Usuario invalido!. Intente nuevamente")
 
 
+<<<<<<< HEAD
 print("CAMBIO DESDE LOGIN")    
 
 
@@ -17,3 +18,12 @@ print("CAMBIO DESDE LOGIN")
 
 
 print("otro cambio desde login")
+=======
+print("Hola soy main")    
+
+
+print("CAMBIO DESDE LOGIN")    
+
+
+print("Otro cambio desde main")
+>>>>>>> main
