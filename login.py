@@ -21,3 +21,5 @@ print("CONFLICTO GENERADO DESDE LOGIN")
 
 
 print("Cambio experimental (no debe unirse al codigo principal todavia)")
+
+print("stash 1")
