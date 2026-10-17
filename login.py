@@ -13,17 +13,15 @@ else:
 print("Hola soy main")    
 
 
-print("CAMBIO DESDE LOGIN")     
+print("CAMBIO DESDE LOGIN")    
 
 
 print("Otro cambio desde main")
-print("CONFLICTO GENERADO DESDE LOGIN")
+print("CONFLICTO MAIN")
+print("CAMBIO DESDE LOGIN")    
 
 
-print("Cambio experimental (no debe unirse al codigo principal todavia)")
 
 
-print("stash 2")
 
-
-print("Saludo desde login")
+print("otro cambio desde login")
