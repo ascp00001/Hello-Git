@@ -7,4 +7,4 @@ password = input("Ingrese su contrasena")
 if(password == 'pass'):
     print("Bienvenido ", user_name)
 else:
-    print("Usuario invalido!. Intente nuevamente")
+    print("Usuario incorrecto!. Intente nuevamente")
