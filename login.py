@@ -31,6 +31,7 @@ print("HOLA GITHUB")
 
 <<<<<<< HEAD
 print("Como estas mi estimado github?")
+print("BUEEEEEEEEEEEEEEEEEEENAS")
 =======
 print("************ Como estas github? ************")
 >>>>>>> ce3c6f34863087b5479d43861c342231fc314ac6
